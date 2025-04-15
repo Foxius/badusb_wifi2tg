@@ -25,7 +25,7 @@ Ready to dive into the USB-powered fun? Follow these steps to unleash the magic:
    On your Gist page, hit the "Raw" button and copy the URL like it’s the last slice of pizza. 🍕
 
 7. **Shrink That Link** 🔗  
-   Head to [TinyURL](https://tinyurl.com/) and turn that chunky URL into a cute, bite-sized link. Adorable *and* functional!
+   Head to [TinyURL](https://tinyurl.com/) (or [clck](https://clck.ru/) if you live in Russia) and turn that chunky URL into a cute, bite-sized link. Adorable *and* functional!
 
 8. **Tweak the Payload** 💉  
    Download `payload.txt` from this repo, swap `<your_link>` with your TinyURL masterpiece, and save it like it’s your high score in a retro arcade game. 🕹️
